@@ -12,7 +12,7 @@ import (
 	"github.com/soguazu/bookings/pkg/render"
 )
 
-const portNumber = ":1000"
+const portNumber = ":4000"
 
 var app config.AppConfig
 var session *scs.SessionManager
